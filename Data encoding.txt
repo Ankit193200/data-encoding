@@ -1,0 +1,6 @@
+Encoding or continuization is the transformation of categorical variables to binary or numerical counterparts
+An example is to treat male or female for gender as 1 or 0. Categorical variables must be encoded in many modeling methods (e.g., linear regression, SVM, neural networks)
+ 
+
+WHY IT IS USEFUL?
+Ans-: Applying the above discussed techniques after identifying the data types of the features in the data set is not only important but also necessary to make the data ready for the machine learning model. The encoding techniques discussed are the most popular and are applicable to most of the data set that needs to be modelled using Machine Learning Algorithms.
